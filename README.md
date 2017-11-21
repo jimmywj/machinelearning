@@ -1,6 +1,6 @@
-#Machine Learning 
+# Machine Learning 
 
-##This project is used to study the machine learning
+## This project is used to study the machine learning
 
 There are many tools in the market and types of machine learning:
 
